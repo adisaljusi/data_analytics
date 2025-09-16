@@ -17,6 +17,7 @@
 __pycache__/
 
 # Ignore output-files of weekly exercises
+.venv
 
 # Week_01
 Week_01/supermarkets.json
