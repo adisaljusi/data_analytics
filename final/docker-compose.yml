@@ -25,7 +25,7 @@ services:
     container_name: rolex_pgadmin
     restart: always
     environment:
-      PGADMIN_DEFAULT_EMAIL: admin@rolex.local
+      PGADMIN_DEFAULT_EMAIL: admin@rolex.com
       PGADMIN_DEFAULT_PASSWORD: admin
     ports:
       - "5050:80"
